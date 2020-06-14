@@ -9,4 +9,5 @@ int main(){
     cout<<"Enter two digit numbers:"<<endl;
     cin>>first>>second;
     cout<<"The sum is "<<first-second<<endl;
+    cout<<"The div is "<<first/second<<endl;
 }
