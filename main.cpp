@@ -1,3 +1,4 @@
+//that program is made for study practice
 #include <iostream>
 #include "sdt.h"
 using namespace std;
