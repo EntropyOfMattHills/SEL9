@@ -10,4 +10,5 @@ int main(){
     cin>>first>>second;
     cout<<"The sum is "<<first - second<<endl;
     cout<<"The mult is "<<first * second<<endl;
+    cout<<"The div is "<<first/second<<endl;
 }
