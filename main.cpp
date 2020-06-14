@@ -1,6 +1,6 @@
 //that program is made for study practice
 #include <iostream>
-#include "sdt.h"
+#include "std.h"
 using namespace std;
 
 int main(){
