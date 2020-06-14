@@ -8,7 +8,7 @@ int main(){
     int first, second;
     cout<<"Enter two digit numbers:"<<endl;
     cin>>first>>second;
-    cout<<"The sum is "<<first - second<<endl;
+    cout<<"The diff is "<<first - second<<endl;
     cout<<"The mult is "<<first * second<<endl;
     cout<<"The div is "<<first/second<<endl;
 }
